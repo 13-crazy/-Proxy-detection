@@ -1,4 +1,6 @@
 # 代理检测 Proxy-detection
+快速查看当前是否打开代理，并可选择开启或关闭
+
 双击即可安装，将程序设置为开机自启动，通过在 Windows 启动文件夹（APPDATA\Microsoft\Windows\Start Menu\Programs\Startup）中创建快捷方式
 初始化系统托盘图标，标题为“代理监控”。
 设置右键菜单，包含“启用/关闭代理”和“退出”选项
